@@ -1,0 +1,5 @@
+{
+  "browser": {
+    "<%=context['ui-page.page']%>": "./lib/app/components/<%=context['ui-page.page']%>/<%=context['ui-page.page']%>.coffee"
+  }
+}

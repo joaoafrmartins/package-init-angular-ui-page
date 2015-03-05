@@ -1,0 +1,23 @@
+{
+  "name": "package-init-angular-ui-page",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "description": "Package Init Angular Ui Page",
+  "keywords": [
+    "package",
+    "init",
+    "angular",
+    "ui",
+    "page"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/joaoafrmartins/package-init-angular-ui-page",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/package-init-angular-ui-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/package-init-angular-ui-page/issues"
+  }
+}
