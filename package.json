@@ -19,5 +19,7 @@
   },
   "bugs": {
     "url": "https://github.com/joaoafrmartins/package-init-angular-ui-page/issues"
-  }
+  },
+  "author": "João Afonso Martins",
+  "license": "MIT"
 }
